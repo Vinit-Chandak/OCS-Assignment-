@@ -1,0 +1,8 @@
+com\knf\dev\demo\springvaadincrud\backend\model\Search.class
+com\knf\dev\demo\springvaadincrud\frontend\view\SearchEditor$ChangeHandler.class
+com\knf\dev\demo\springvaadincrud\frontend\view\Index.class
+com\knf\dev\demo\springvaadincrud\backend\repository\SearchRepository.class
+com\knf\dev\demo\springvaadincrud\backend\repository\GitrepositoryRepository.class
+com\knf\dev\demo\springvaadincrud\frontend\view\SearchEditor.class
+com\knf\dev\demo\springvaadincrud\Application.class
+com\knf\dev\demo\springvaadincrud\backend\model\Gitrepository.class
